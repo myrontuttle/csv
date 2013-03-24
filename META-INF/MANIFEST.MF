@@ -5,3 +5,4 @@ Bundle-SymbolicName: com.myrontuttle.csv
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: MYRONTUTTLE
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: com.myrontuttle.csv
