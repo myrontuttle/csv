@@ -1,4 +1,4 @@
-package com.myrontuttle.csv;
+package com.myrontuttle.lib.csv;
 
 /**
  * CSVFile is a class used to handle <a
