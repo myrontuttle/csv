@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: com.myrontuttle.lib.csv
+Bundle-Name: Lib CSV
 Bundle-SymbolicName: com.myrontuttle.lib.csv
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.1
 Bundle-Vendor: Myron Tuttle
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: com.myrontuttle.lib.csv
